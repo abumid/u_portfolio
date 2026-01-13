@@ -1,4 +1,4 @@
-/*DRPT Coursework by 001516, 001631, 001805*/
+
 USE master
 GO
 --DROP DATABASE KFCDB
@@ -238,3 +238,4 @@ GO
 
 ALTER TABLE Restaurant ADD CONSTRAINT FK_Restaurant_Manager foreign key(ManagerId) references Employee(EmployeeID)
 ON DELETE SET NULL
+
