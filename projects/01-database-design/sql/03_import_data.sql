@@ -1,4 +1,4 @@
-/*DRPT Coursework by 001516, 001631, 001805*/
+
 USE KFCDB
 go
 -----------------------------------------------------------------
@@ -187,3 +187,4 @@ exec udpProductJsonImport
 
 -- check the results
 select * from Product
+
