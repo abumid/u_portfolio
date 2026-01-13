@@ -1,4 +1,4 @@
-/*DRPT Coursework by 001516, 001631, 001805*/
+
 use KFCDB
 go
 
@@ -130,7 +130,7 @@ VALUES
     ('Tech Solutions', 'Amir Temur Street, 789', 'Bukhara', 'Bukhara', 'Uzbekistan', '300003'),
     ('Fashion Trends', 'Sayram Street, 101', 'Fergana', 'Fergana', 'Uzbekistan', '400004'),
     ('Home Essentials', 'Namangan Street, 202', 'Namangan', 'Namangan', 'Uzbekistan', '500004'),
-    ('Nature’s Best', 'Engels Street, 303', 'Andijan', 'Andijan', 'Uzbekistan', '600006'),
+    ('NatureÂ’s Best', 'Engels Street, 303', 'Andijan', 'Andijan', 'Uzbekistan', '600006'),
     ('Office Depot', 'Shota Rustaveli Street, 404', 'Nukus', 'Karakalpakstan', 'Uzbekistan', '700007'),
     ('Furniture Mart', 'K. Shirin Street, 505', 'Urgench', 'Khorezm', 'Uzbekistan', '800008'),
     ('Beauty Emporium', 'Dalvarza Street, 606', 'Termez', 'Surkhandarya', 'Uzbekistan', '900009'),
@@ -215,3 +215,4 @@ VALUES
     (10, 8, 2, 32900.00, 65800.00),
     (5, 10, 1, 47900.00, 47900.00),
     (5, 9, 1, 17900.00, 17900.00);
+
