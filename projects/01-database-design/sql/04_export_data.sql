@@ -1,4 +1,4 @@
-/*DRPT Coursework by 001516, 001631, 001805*/
+
 use KFCDB
 go
 ----Task 2.4. Export data from database
@@ -153,3 +153,4 @@ begin
 end
 go
 select dbo.ProductSalesToCsv()
+
