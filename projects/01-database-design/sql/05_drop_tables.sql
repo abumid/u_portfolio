@@ -1,4 +1,4 @@
-/*DRPT Coursework by 001516, 001631, 001805*/
+
 USE KFCDB
 GO
 
@@ -41,3 +41,4 @@ DROP TABLE FoodCategory
 GO	
 DROP TABLE Ingredient
 GO	
+
