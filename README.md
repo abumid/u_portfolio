@@ -1,2 +1,2 @@
-# graduate-ml-portfolio
-Graduate portfolio showcasing applied machine learning, data science, and AI projects prepared for master’s study.
+# applied-ml-cv-case-studies
+Portfolio showcasing applied Machine Learning, Computer Vision, and software engineering — from fundamentals to real-world commercial delivery.
